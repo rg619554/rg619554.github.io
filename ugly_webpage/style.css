@@ -1,0 +1,113 @@
+@import url(https://fonts.googleapis.com/css?family=Gloria+Hallelujah);
+@import url(https://fonts.googleapis.com/css?family=Ubuntu:400,400italic,500italic,700,700italic,500,300,300italic&subset=latin,greek);
+div{
+  font-size: 120px;
+  background-color: yellow;
+  color: green;
+}
+
+li{
+  font-weight: bold;
+  font-size: 2000px;
+  color:  brown;
+  text-decoration: underline;
+}
+
+em{
+  text-decoration: line-through;
+  color: lavender;
+  background-color: black;
+  border: 200px;
+  margin: 20%;
+  font-size: 80px;
+  width: 50px;
+}
+
+img{
+  float: right;
+  border-top: yellow;
+  width: 855px;
+
+}
+
+body{
+  background-color: blue;
+  border: pink;
+}
+
+header{
+  letter-spacing: 24px;
+  font-family: "Ubuntu";
+  border-color: pink;
+  border-width: medium;
+}
+
+p{
+  letter-spacing: 50px;
+  font-weight: 400;
+}
+h1{
+  margin: 50%;
+  font-style: italic;
+}
+h2{
+  margin: 25%;
+  height: 30px;
+  color: white;
+}
+h3{
+  padding: 4px;
+  text-decoration: underline;
+  color: brown;
+}
+
+h4{
+  margin-bottom: 10px;
+  font-family: "Gloria+Hallejulah";
+}
+h6{
+  margin-top: 20%;
+  color: violet;
+
+}
+
+ul{
+  margin: 20%;
+  text-decoration: overline;
+  max-width: 30%;
+  font-size: 20px;
+  color: brown;
+}
+
+
+ol{
+float: right;
+width: 300px;
+line-height: 10%;
+
+}
+
+a{
+  float: left;
+  margin: 75%;
+  color: green;
+ letter-spacing: 1px;
+
+
+}
+footer{
+margin: 6%;
+width: 30px;
+color: magenta;
+letter-spacing: 40%;
+
+
+
+}
+
+section{
+  letter-spacing: 20% :normal;
+  font-style: oblique;
+  float:left;
+  margin: 10%;
+  background-color: red;
