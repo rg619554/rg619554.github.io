@@ -51,4 +51,6 @@ p{
 #Navbar{
   font-size: 25px;
   color: green;
+  display: inline-block;
+  margin-left: 500px;
 }
