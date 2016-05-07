@@ -53,4 +53,13 @@ p{
   color: green;
   display: inline-block;
   margin-left: 500px;
+  float: right;
+}
+
+#About{
+  float: right;
+}
+
+#youtube{
+  float: right;
 }
